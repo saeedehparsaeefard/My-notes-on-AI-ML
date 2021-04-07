@@ -1,4 +1,4 @@
 # my-notes-on-AI-ML
 
 For Covnersational Learning 
-![image](https://user-images.githubusercontent.com/67591901/113913806-c1683a80-97aa-11eb-9fe3-f14aab21a704.png)
+https://docs.google.com/spreadsheets/d/1nSKcnM5r9x82BdyPgn-obN1sRUlLC7zZ082a0132Igk/edit?fbclid=IwAR1Pu-XZueOJED0b6v0w252Gi_Ej2iZH5m-857bkyQFgFH8MM4gUtAGO5lw#gid=1523499517
